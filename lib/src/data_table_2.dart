@@ -166,6 +166,8 @@ class DataTable2 extends DataTable {
     super.decoration,
     super.dataRowColor,
     this.dataRowHeight,
+    super.dataRowMaxHeight,
+    super.dataRowMinHeight,
     super.dataTextStyle,
     super.headingRowColor,
     this.fixedColumnsColor,
